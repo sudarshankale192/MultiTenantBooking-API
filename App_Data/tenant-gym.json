@@ -1,0 +1,5 @@
+{
+  "MaxBookingHours": 2,
+  "EnableNotifications": true,
+  "EnableAdvancedReports": true
+}
